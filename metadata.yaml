@@ -15,12 +15,12 @@ creator:
   authors:
   - agent_name: Scheepstra, H. (Hendericus)
     alias: Scheepstra, Hendericus
-    birthdate: &id001 1859
+    birthdate: 1859
     deathdate: 1913
     gutenberg_agent_id: '42988'
     url: http://www.gutenberg.org/2009/agents/42988
   - agent_name: Ligthart, Jan
-    birthdate: *id001
+    birthdate: 1859
     deathdate: 1916
     gutenberg_agent_id: '35005'
     url: http://www.gutenberg.org/2009/agents/35005
@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '42610'
     url: http://www.gutenberg.org/2009/agents/42610
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44157#Entre-Nous--13-Lectures-fran-aises---l-usage-des--coles-primaires---I
 gutenberg_bookshelf:
 - FR Education et Enseignement
 - FR Jeunesse
