@@ -1,0 +1,49 @@
+_repo: Entre-Nous--13-Lectures-fran-aises---l-usage-des--coles-primaires---I_44157
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bokhorst, Johanna Berhardina
+    alias: Bokhorst, J. Berhardina (Johanna Berhardina)
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '42611'
+    url: http://www.gutenberg.org/2009/agents/42611
+covers:
+- cover_type: archival
+  image_path: 44157-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Scheepstra, H. (Hendericus)
+    alias: Scheepstra, Hendericus
+    birthdate: &id001 1859
+    deathdate: 1913
+    gutenberg_agent_id: '42988'
+    url: http://www.gutenberg.org/2009/agents/42988
+  - agent_name: Ligthart, Jan
+    birthdate: *id001
+    deathdate: 1916
+    gutenberg_agent_id: '35005'
+    url: http://www.gutenberg.org/2009/agents/35005
+    wikipedia: http://nl.wikipedia.org/wiki/Jan_Ligthart
+  - agent_name: Vos, Lucie
+    gutenberg_agent_id: '42610'
+    url: http://www.gutenberg.org/2009/agents/42610
+description: ''
+gutenberg_bookshelf:
+- FR Education et Enseignement
+- FR Jeunesse
+gutenberg_issued: '2013-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44157'
+language:
+- fr
+- nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Readers'
+- !lcc 'PC'
+title: 'Entre Nous: Lectures françaises à l''usage des écoles primaires - I'
+url: http://www.gutenberg.org/ebooks/44157
